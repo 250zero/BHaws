@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_ead256949ebf7dcb4f9c085ffb33206c4f410ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_d5c2599a9a7cce8d4b8192e46b9bbe3a97b182ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_657d72603aae64065459677e14264d7405b8956f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\BHaws\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_d81329c411476315dd0288344bc65599c8d5fb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_9c7e10b89f4eb1caa0d4fd4fb9328afe64f7939b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_9b0eefa492f60e6f81652e8f71a81e2e97ed7f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_5cfeda446c2a04facfcb9d204cd748c4121323e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\turby\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_7ec13ce1fc30df815a18040490c9551150a74385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_398a2ef1ea3cb79edc9d09809cb38aeacf3c7462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_480e778de56080b733c79771cda6a88b9fdb12a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\native\BHaws\platforms\android\build\intermediates\exploded-aar\BHaws\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\native\BHaws\platforms\android\build\intermediates\pre-dexed\F0\debug\BHaws-runtime-unspecified_0e4fb5363bf90a28577e24561537ef84ba626e5f.jar" />
+    </item>
+
+</items>

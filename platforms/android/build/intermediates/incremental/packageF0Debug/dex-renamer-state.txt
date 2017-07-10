@@ -1,0 +1,4 @@
+#Sun Jul 09 22:07:05 CLT 2017
+base.0=C\:\\native\\BHaws\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\native\\BHaws\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex
