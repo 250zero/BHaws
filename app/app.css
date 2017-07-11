@@ -1,3 +1,15 @@
-@import "nativescript-theme-core/css/core.light.css";
+/*@import "nativescript-theme-core/css/core.light.css"; */
+/*@import '~/nativescript-theme-core/css/aqua.css';*/
+/*@import '~/nativescript-theme-core/css/blue.css';
+@import '~/nativescript-theme-core/css/brown.css';
+@import '~/nativescript-theme-core/css/forest.css';
+@import '~/nativescript-theme-core/css/grey.css';
+@import '~/nativescript-theme-core/css/lemon.css';
+@import '~/nativescript-theme-core/css/lime.css';
+@import '~/nativescript-theme-core/css/orange.css';
+@import '~/nativescript-theme-core/css/purple.css';
+@import '~/nativescript-theme-core/css/ruby.css'; */
+@import '~/nativescript-theme-core/css/sky.css';
+@import url('~/resources/baloncesto.css');
 
 /* Your CSS goes here */
