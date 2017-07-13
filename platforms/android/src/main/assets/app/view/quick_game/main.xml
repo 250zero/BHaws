@@ -1,0 +1,33 @@
+<Page loaded="cargado"  actionBarHidden="true"  >
+  <ScrollView>  
+    <GridLayout  columns="*, *, *, *,*,*" rows="40,40,60,40,*"   style.backgroundColor="lightgray" >
+    
+    
+        <button text="-" row="0" col="0"   class="boton-menos" />
+        <button text="+" row="0" col="1" class="boton-mas"   /> 
+         <button text="Nuevo juego" row="0" col="2"  colSpan="2"  class="boton-reiniciar"      /> 
+        <button text="- " row="0" col="4"    class="boton-menos" />
+        <button text="+" row="0" col="5"   class="boton-mas"  />
+
+
+        <Label text="Faltas" row="1" col="0"   class="marcador-faltas" />
+        <Label text="00" row="1" col="1"  class="marcador-faltas-num"/> 
+        <button text="Iniciar" row="1" col="2"  colSpan="2"  class="boton-iniciar"      /> 
+         <Label text="Faltas " row="1" col="4" class="marcador-faltas" />
+        <Label text="00" row="1" col="5" class="marcador-faltas-num"/>
+    
+        <Label text="16" row="2" col="0"  colSpan="2" class="marcador-visitante"/> 
+        <Label text="12:00 " row="2" col="2"   colSpan="2"  class="marcador-tiempo"/> 
+       
+        <Label text="14 " row="2" col="4" colSpan="2" class="marcador-casa"/> 
+
+        <button text="-" row="3" col="0"    class="boton-menos"/>
+        <button text="+" row="3" col="1" class="boton-mas"  /> 
+        <button text="Activar" row="3" col="2"   class="boton-iniciar"/>
+        <Label text="24.0" row="3" col="3"  class="marcador-tiempo-min" />
+        <button text="- " row="3" col="4"  class="boton-menos"/>
+        <button text="+" row="3" col="5" class="boton-mas"   />
+    </GridLayout>
+     
+  </ScrollView>  
+</Page>

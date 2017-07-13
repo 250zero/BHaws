@@ -9,7 +9,8 @@
 @import '~/nativescript-theme-core/css/orange.css';
 @import '~/nativescript-theme-core/css/purple.css';
 @import '~/nativescript-theme-core/css/ruby.css'; */
-@import '~/nativescript-theme-core/css/sky.css';
+/*@import '~/nativescript-theme-core/css/sky.css';*/
+@import '~/nativescript-theme-core/css/core.dark.css';
 @import url('~/resources/baloncesto.css');
 
 /* Your CSS goes here */

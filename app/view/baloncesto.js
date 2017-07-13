@@ -4,8 +4,9 @@ var frameModule = require("ui/frame");
 exports.cargado = function() { 
        
 }; 
-exports.quick_game_page = function() { 
-    
+exports.quick_game_page = function() {  
+    var topmost = frameModule.topmost();
+    topmost.navigate("view/quick_game/main");
 };
 exports.start_game_page = function() { 
    
