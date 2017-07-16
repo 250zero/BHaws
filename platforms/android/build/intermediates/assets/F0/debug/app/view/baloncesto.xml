@@ -1,0 +1,14 @@
+<Page loaded="cargado"  actionBarHidden="true"  >
+ 
+   <ScrollView>  
+        <StackLayout orientation="vertical"   >
+                <Image src="~/images/haws_logo.png" />  
+                <Button class="menu-boton" text="Juego Rapido"  tap="quick_game_page" />  
+                <Button  class="menu-boton" text="Juego de Equipo"  tap="start_game_page" />  
+                <Button  class="menu-boton" text="Lista de jugadores" tap="list_player_page" />  
+                <Button  class="menu-boton" text="Configuracion" tap="configuration_page" />  
+                <Button class="menu-boton"  text="Salir" tap="exit_application" />   
+        </StackLayout>
+   </ScrollView> 
+</Page>
+

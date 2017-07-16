@@ -1,0 +1,108 @@
+Page 
+{
+    background-color: black;
+    font-size: 17;
+    overflow: auto;
+} 
+
+.menu-boton
+{
+    background-color: white;
+    margin-bottom: 10px;
+    font-size: 17; 
+    border: 2px solid;
+    border-radius: 10px;
+}
+.boton-menos
+{
+    margin: 2px; 
+    text-align: center;
+    font-size: 15px;
+    background-color: #E64848;
+}
+
+button
+{
+    border-radius:  5px;
+}
+
+.boton-mas
+{
+    margin: 2px; 
+    text-align: center;
+    font-size: 15px;
+    background-color: #8CC882;
+}
+
+.marcador-faltas
+{
+    text-align: center;
+    font-size: 20px;
+}
+.marcador-faltas-num
+{
+    text-align: center;
+    font-size: 20px;
+}
+.marcador-tiempo
+{   
+    font-size: 60px; 
+    padding-top: -15px;
+    padding-left: -5px;
+    padding-right: -5px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.marcador-tiempo-min
+{   
+    font-size: 35px;
+    padding-top: -5px; 
+    font-weight: bold;
+    text-align: left;
+
+}
+.marcador-visitante
+{
+     font-size: 70px;
+    padding: -25px;
+    color: orange;
+    font-weight: bold;
+    text-align: center;
+}
+.marcador-casa
+{
+    font-size: 70px;
+    color: red;
+    padding: -25px;
+    font-weight: bold;
+    text-align: center;
+}
+.boton-iniciar
+{
+    margin: 2px; 
+    padding: -10px;
+    text-align: center;
+    color: white; 
+    font-size: 18px;
+    background-color: #109BFE;
+}
+
+.boton-reiniciar
+{
+    margin: 2px; 
+    padding: -10px;
+    text-align: center;
+    color: white; 
+    font-size: 18px;
+    background-color: #E64848;
+}
+StackLayout
+{
+    overflow: scroll; 
+}
+
+.hide
+{
+    display: none;
+}

@@ -1,5 +1,9 @@
 C:\native\BHaws\platforms\android\src\main\assets\app\app.js
 C:\native\BHaws\platforms\android\src\main\assets\app\main-page.js
+C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\@irman\nativescript-screen-orientation\screen-orientation.js
+C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\nativescript-dom\dom.js
+C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\nativescript-globalevents\globalevents.js
+C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\nativescript-screen-orientation\screen-orientation.js
 C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
@@ -149,3 +153,6 @@ C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modul
 C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\native\BHaws\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+C:\native\BHaws\platforms\android\src\main\assets\app\view\baloncesto.js
+C:\native\BHaws\platforms\android\src\main\assets\app\view\menu.js
+C:\native\BHaws\platforms\android\src\main\assets\app\view\quick_game\main.js

@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@irman/nativescript-screen-orientation",
+        "scope": "@irman",
+        "escapedName": "@irman%2fnativescript-screen-orientation",
+        "name": "@irman/nativescript-screen-orientation",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\native\\BHaws"
+    ]
+  ],
+  "_from": "@irman/nativescript-screen-orientation@latest",
+  "_id": "@irman/nativescript-screen-orientation@1.1.2",
+  "_inCache": true,
+  "_location": "/@irman/nativescript-screen-orientation",
+  "_nodeVersion": "7.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-screen-orientation-1.1.2.tgz_1487054349668_0.7807673863135278"
+  },
+  "_npmUser": {
+    "name": "irman",
+    "email": "irman@outlook.my"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@irman/nativescript-screen-orientation",
+    "scope": "@irman",
+    "escapedName": "@irman%2fnativescript-screen-orientation",
+    "name": "@irman/nativescript-screen-orientation",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@irman/nativescript-screen-orientation/-/nativescript-screen-orientation-1.1.2.tgz",
+  "_shasum": "0253c3609fbeed74173675de65b6f1f2639dedac",
+  "_shrinkwrap": null,
+  "_spec": "@irman/nativescript-screen-orientation",
+  "_where": "C:\\native\\BHaws",
+  "author": {
+    "name": "Batheja Sumeet",
+    "email": "sumeet@videospike.com"
+  },
+  "bugs": {
+    "url": "https://github.com/irman/nativescript-screen-orientation/issues"
+  },
+  "dependencies": {},
+  "description": "A plugin to force change the orientation of a page programmatically in NativeScript. Supports both Android and iOS. Forked of /nativescript-screen-orientation",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0253c3609fbeed74173675de65b6f1f2639dedac",
+    "tarball": "https://registry.npmjs.org/@irman/nativescript-screen-orientation/-/nativescript-screen-orientation-1.1.2.tgz"
+  },
+  "gitHead": "6b2266deb002375f257f0320d71e8d07d14ede2d",
+  "homepage": "https://github.com/irman/nativescript-screen-orientation",
+  "keywords": [
+    "nativescript",
+    "orientation-change",
+    "force-orientation",
+    "lock-orientation"
+  ],
+  "license": "MIT",
+  "main": "screen-orientation.js",
+  "maintainers": [
+    {
+      "name": "irman",
+      "email": "irman@outlook.my"
+    }
+  ],
+  "name": "@irman/nativescript-screen-orientation",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.5.0",
+      "android": "1.5.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irman/nativescript-screen-orientation.git"
+  },
+  "scripts": {},
+  "version": "1.1.2"
+}
